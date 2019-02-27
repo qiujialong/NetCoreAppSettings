@@ -1,0 +1,17 @@
+D:\Work\Git\DotNetNancy\AppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSettings.csproj.CoreCompileInputs.cache
+D:\Work\Git\DotNetNancy\AppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSettings.AssemblyInfoInputs.cache
+D:\Work\Git\DotNetNancy\AppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSettings.AssemblyInfo.cs
+D:\Work\Git\DotNetNancy\AppSettings\bin\Debug\netcoreapp2.2\NetCoreAppSettings.deps.json
+D:\Work\Git\DotNetNancy\AppSettings\bin\Debug\netcoreapp2.2\NetCoreAppSettings.dll
+D:\Work\Git\DotNetNancy\AppSettings\bin\Debug\netcoreapp2.2\NetCoreAppSettings.pdb
+D:\Work\Git\DotNetNancy\AppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSettings.dll
+D:\Work\Git\DotNetNancy\AppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSettings.pdb
+D:\Work\Git\DotNetNancy\NetCoreAppSettings\bin\Debug\netcoreapp2.2\NetCoreAppSettings.deps.json
+D:\Work\Git\DotNetNancy\NetCoreAppSettings\bin\Debug\netcoreapp2.2\NetCoreAppSettings.dll
+D:\Work\Git\DotNetNancy\NetCoreAppSettings\bin\Debug\netcoreapp2.2\NetCoreAppSettings.pdb
+D:\Work\Git\DotNetNancy\NetCoreAppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSettings.csprojAssemblyReference.cache
+D:\Work\Git\DotNetNancy\NetCoreAppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSettings.csproj.CoreCompileInputs.cache
+D:\Work\Git\DotNetNancy\NetCoreAppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSettings.AssemblyInfoInputs.cache
+D:\Work\Git\DotNetNancy\NetCoreAppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSettings.AssemblyInfo.cs
+D:\Work\Git\DotNetNancy\NetCoreAppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSettings.dll
+D:\Work\Git\DotNetNancy\NetCoreAppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSettings.pdb
