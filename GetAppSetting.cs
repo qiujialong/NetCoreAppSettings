@@ -27,5 +27,22 @@ namespace NetCoreAppSettings
             var myService = builder.Services.GetService<IMyService>();
             return myService.GetSettingValue(key);
         }
+
+        public static T GetSection<T>(string key) where T : class, new()
+        {
+            var hostBuilder = new HostBuilder().ConfigureAppConfiguration((hostContext, configApp) =>
+            {
+                var hostingEnvironment = hostContext.HostingEnvironment;
+                _appConfiguration = AppConfigurations.Get(hostingEnvironment.ContentRootPath, hostingEnvironment.EnvironmentName);
+            }).ConfigureServices((hostContext, services) =>
+            {
+                services.AddSingleton(_appConfiguration);
+                services.AddSingleton<IMyService, MyService>();
+            });
+
+            var builder = hostBuilder.Build();
+            var myService = builder.Services.GetService<IMyService>();
+            return _appConfiguration.GetSection(key).Get<T>();
+        }
     }
 }

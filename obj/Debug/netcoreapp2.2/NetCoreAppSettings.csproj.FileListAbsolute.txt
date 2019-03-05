@@ -15,3 +15,12 @@ D:\Work\Git\DotNetNancy\NetCoreAppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSet
 D:\Work\Git\DotNetNancy\NetCoreAppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSettings.AssemblyInfo.cs
 D:\Work\Git\DotNetNancy\NetCoreAppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSettings.dll
 D:\Work\Git\DotNetNancy\NetCoreAppSettings\obj\Debug\netcoreapp2.2\NetCoreAppSettings.pdb
+C:\Users\jlqiu\Desktop\NetCoreAppSettings-master\NetCoreAppSettings-master\bin\Debug\netcoreapp2.2\NetCoreAppSettings.deps.json
+C:\Users\jlqiu\Desktop\NetCoreAppSettings-master\NetCoreAppSettings-master\bin\Debug\netcoreapp2.2\NetCoreAppSettings.dll
+C:\Users\jlqiu\Desktop\NetCoreAppSettings-master\NetCoreAppSettings-master\bin\Debug\netcoreapp2.2\NetCoreAppSettings.pdb
+C:\Users\jlqiu\Desktop\NetCoreAppSettings-master\NetCoreAppSettings-master\obj\Debug\netcoreapp2.2\NetCoreAppSettings.csprojAssemblyReference.cache
+C:\Users\jlqiu\Desktop\NetCoreAppSettings-master\NetCoreAppSettings-master\obj\Debug\netcoreapp2.2\NetCoreAppSettings.csproj.CoreCompileInputs.cache
+C:\Users\jlqiu\Desktop\NetCoreAppSettings-master\NetCoreAppSettings-master\obj\Debug\netcoreapp2.2\NetCoreAppSettings.AssemblyInfoInputs.cache
+C:\Users\jlqiu\Desktop\NetCoreAppSettings-master\NetCoreAppSettings-master\obj\Debug\netcoreapp2.2\NetCoreAppSettings.AssemblyInfo.cs
+C:\Users\jlqiu\Desktop\NetCoreAppSettings-master\NetCoreAppSettings-master\obj\Debug\netcoreapp2.2\NetCoreAppSettings.dll
+C:\Users\jlqiu\Desktop\NetCoreAppSettings-master\NetCoreAppSettings-master\obj\Debug\netcoreapp2.2\NetCoreAppSettings.pdb

@@ -19,5 +19,9 @@ namespace NetCoreAppSettings
             return _configuration.GetSection(key).Value;
         }
 
+        public T GetSetting<T>(string key)
+        {
+            return _configuration.Get<T>();
+        }
     }
 }

@@ -39,5 +39,6 @@ namespace NetCoreAppSettings
 
             return builder.Build();
         }
+
     }
 }
